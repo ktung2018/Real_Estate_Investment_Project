@@ -1,4 +1,6 @@
 # Real_Estate_Investment_Project
+https://ktung2018.github.io/Real_Estate_Investment_Project/
+
 Analyzed real estate housing key parameters: average price per square footage for homes in different cities of California in Q2 2018:
 - Listing of top 20 / 50 cities with highest and lowest average housing price per square footage;
 - Median housing price of cities in California
